@@ -43,3 +43,6 @@ let roll = 20
 let marks = 294
 
 console.log(name, school, grade, section, roll, marks)
+
+
+this is all about first day
