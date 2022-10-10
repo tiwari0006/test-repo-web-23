@@ -7,4 +7,6 @@ console.log(1*2*3*4*5)
 let num = (1+2+3+4+5)
 console.log(num*2)
 
+this is all about day 2
+
 
